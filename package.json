@@ -1,6 +1,6 @@
 {
-  "name": "workspace",
-  "version": "0.0.0",
+  "name": "basicexpresssite",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -12,6 +12,7 @@
     "express": "~4.12.4",
     "jade": "~1.9.2",
     "morgan": "~1.5.3",
+    "nodemailer": "^1.3.4",
     "serve-favicon": "~2.2.1"
   }
 }
